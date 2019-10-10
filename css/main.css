@@ -414,11 +414,11 @@ input[type=button] {
    ========================================================================== */
 
 .faq {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: row wrap;
-  background-color: #527158;
+	background-color: #527158;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
 }
 
 .faq .content-wrapper {	
@@ -798,7 +798,7 @@ input[type=button] {
   .mission h2,
   .contact-section .content-wrapper h2 {
       width: 100%;
-      font-size: 3em;
+      font-size: 
   }
 
   .contact-section .content-wrapper h2 {
